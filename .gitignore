@@ -4,6 +4,9 @@ wp-admin/
 wp-includes/
 !wp-content/
 
+#root files
+wp-config.php
+
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
