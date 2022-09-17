@@ -1,4 +1,5 @@
 # ignore everything in the root except the "wp-content" directory.
+old/
 !wp-content/
 
 # ignore everything in the "wp-content" directory, except:
@@ -20,6 +21,7 @@ wp-content/plugins/trx_updater
 wp-content/plugins/trx_utils
 wp-content/plugins/woocommerce
 wp-content/plugins/wp-gdpr-compliance
+
 # ignore specific themes
 wp-content/themes/twenty*/
 
