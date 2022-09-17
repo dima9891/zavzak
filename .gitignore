@@ -10,7 +10,16 @@ wp-content/*
 
 # ignore these plugins
 wp-content/plugins/hello.php
-
+wp-content/plugins/contact-form-7
+wp-content/plugins/essential-grid
+wp-content/plugins/js_composer
+wp-content/plugins/mailchimp-for-wp
+wp-content/plugins/revslider
+wp-content/plugins/trx_socials
+wp-content/plugins/trx_updater
+wp-content/plugins/trx_utils
+wp-content/plugins/woocommerce
+wp-content/plugins/wp-gdpr-compliance
 # ignore specific themes
 wp-content/themes/twenty*/
 
