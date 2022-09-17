@@ -1,6 +1,7 @@
 # ignore everything in the root except the "wp-content" directory.
 old/
 wp-admin/
+wp-includes/
 !wp-content/
 
 # ignore everything in the "wp-content" directory, except:
