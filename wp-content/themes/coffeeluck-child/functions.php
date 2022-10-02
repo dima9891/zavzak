@@ -9,6 +9,7 @@ function my_theme_enqueue_styles() {
 
 add_action( 'wp_enqueue_scripts', 'my_plugin_add_stylesheet' );
 function my_plugin_add_stylesheet() {
+    wp_enqueue_style( 'head-style', get_stylesheet_directory_uri() . '/css/font.css');
     wp_enqueue_style( 'head-style', get_stylesheet_directory_uri() . '/css/header.css');
 }
 
