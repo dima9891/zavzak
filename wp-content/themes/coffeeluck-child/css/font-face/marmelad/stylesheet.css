@@ -4,7 +4,8 @@
 
 @font-face {
     font-family: 'marmeladregular';
-    src: url('marmelad-regular-webfont.woff2') format('woff2'),
+    src: url(marmelad-regular.ttf) format('ttf'),
+         url('marmelad-regular-webfont.woff2') format('woff2'),
          url('marmelad-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
