@@ -42,7 +42,35 @@ blockquote,
 .comments_list_wrap .comments_list_title,
 .comments_list_wrap .comment_reply,
 .widget_area .widget_title,
-.widget_area .widget_calendar .month_cur
+.widget_area .widget_calendar .month_cur,
+.woocommerce .product_meta span
 {
+    font-family: "Lato", sans-serif!important;
+}
+
+/* Buttons */
+
+#btn-buy,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce #respond input#submit,
+.woocommerce #content input.button,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page #content input.button,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt,
+.woocommerce #content input.button.alt,
+.woocommerce-page a.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce-page input.button.alt,
+.woocommerce-page #respond input#submit.alt,
+.woocommerce-page #content input.button.alt,
+.woocommerce-account .addresses .title .edit {
     font-family: "Lato", sans-serif!important;
 }
