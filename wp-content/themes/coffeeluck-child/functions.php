@@ -11,6 +11,7 @@ add_action( 'wp_enqueue_scripts', 'my_plugin_add_stylesheet' );
 function my_plugin_add_stylesheet() {
     wp_enqueue_style( 'fonts', get_stylesheet_directory_uri() . '/css/font.css');
     wp_enqueue_style( 'head-style', get_stylesheet_directory_uri() . '/css/header.css');
+    wp_enqueue_style( 'footer-style', get_stylesheet_directory_uri() . '/css/footer.css');
 }
 
 // SVG upload enable hook

@@ -15,7 +15,6 @@ h1,h2,h3,h4,h5,h6 {
 .woocommerce-page ul.products li.product h3,
 .woocommerce ul.products li.product .price,
 .woocommerce div.product .product_title,
-.woocommerce div.product p.price,
 .woocommerce div.product .woocommerce-tabs h2,
 .woocommerce #content div.product .woocommerce-tabs h2,
 .woocommerce-page div.product .woocommerce-tabs h2,
@@ -43,7 +42,8 @@ blockquote,
 .comments_list_wrap .comment_reply,
 .widget_area .widget_title,
 .widget_area .widget_calendar .month_cur,
-.woocommerce .product_meta span
+.woocommerce .product_meta span,
+.woocommerce div.product p.price
 {
     font-family: "Lato", sans-serif!important;
 }

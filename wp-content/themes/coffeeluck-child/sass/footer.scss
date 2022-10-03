@@ -1,0 +1,13 @@
+.copyright_wrap.copyright_style_socials.scheme_original {
+    .columns_wrap {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        
+        &::after {
+            width: auto;
+        }
+    }
+   
+}
