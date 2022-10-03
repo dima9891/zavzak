@@ -74,3 +74,24 @@ blockquote,
 .woocommerce-account .addresses .title .edit {
     font-family: "Lato", sans-serif!important;
 }
+
+/* Shortcodes */
+
+.sc_call_to_action .sc_call_to_action_subtitle,
+.sc_intro_style_3 .sc_intro_descr,
+.sc_promo .sc_promo_subtitle,
+.sc_services_item .sc_services_item_subtitle,
+.sc_testimonials_style_testimonials-1 .sc_testimonial_author {
+    font-family: "Lato", sans-serif!important;
+}
+
+/* Top panel and post info */
+
+.top_panel_title .breadcrumbs,
+.post_info .post_info_item.post_info_tags .post_info_tags_label,
+blockquote > a,
+blockquote > p > a,
+blockquote cite,
+#send_comment {
+    font-family: "Lato", sans-serif!important;
+}
