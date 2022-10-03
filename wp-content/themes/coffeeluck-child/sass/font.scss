@@ -81,10 +81,30 @@ blockquote,
 .sc_intro_style_3 .sc_intro_descr,
 .sc_promo .sc_promo_subtitle,
 .sc_services_item .sc_services_item_subtitle,
-.sc_testimonials_style_testimonials-1 .sc_testimonial_author {
+.sc_testimonials_style_testimonials-1 .sc_testimonial_author,
+.sc_countdown.sc_countdown_style_1 .sc_countdown_digits,
+.sc_countdown.sc_countdown_style_1 .sc_countdown_separator,
+.sc_dropcaps .sc_dropcaps_item,
+.sc_price_block .sc_price_block_money .sc_price_currency,
+.sc_price_block .sc_price_block_money .sc_price_money,
+.sc_skills_pie.sc_skills_compact_off .sc_skills_total,
+.sc_table table tr:first-child th,
+.sc_table table tr:first-child td,
+.sc_tabs .sc_tabs_titles li,
+.sc_team_item .sc_team_item_info .sc_team_item_position,
+.sc_testimonial_content {
     font-family: "Lato", sans-serif!important;
 }
 
+.sc_call_to_action .sc_call_to_action_title,
+.sc_call_to_action_style_2 .sc_call_to_action_title,
+.sc_intro_style_3 .sc_intro_title,
+.sc_price_block .sc_price_block_title,
+.sc_services_item .sc_services_item_title,
+.sc_team_item .sc_team_item_info .sc_team_item_title 
+{
+    font-family: "Marmelad", sans-serif!important;
+}
 /* Top panel and post info */
 
 .top_panel_title .breadcrumbs,
