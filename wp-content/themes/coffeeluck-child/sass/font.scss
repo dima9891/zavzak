@@ -43,7 +43,20 @@ blockquote,
 .widget_area .widget_title,
 .widget_area .widget_calendar .month_cur,
 .woocommerce .product_meta span,
-.woocommerce div.product p.price
+.woocommerce div.product p.price,
+.woocommerce .product_meta span span,
+.woocommerce .product_meta a,
+.woocommerce ul.cart_list li a,
+.woocommerce ul.product_list_widget li a,
+.woocommerce-page ul.cart_list li a,
+.woocommerce-page ul.product_list_widget li a,
+.woocommerce .widget_price_filter .price_label,
+.sc_call_to_action .sc_call_to_action_descr,
+.sc_countdown.sc_countdown_style_1 .sc_countdown_label,
+.sc_promo .sc_promo_descr,
+.sc_skills_pie.sc_skills_compact_off .sc_skills_info,
+.sc_item_descr,
+.post_info .post_info_item.post_info_tags
 {
     font-family: "Lato", sans-serif!important;
 }
