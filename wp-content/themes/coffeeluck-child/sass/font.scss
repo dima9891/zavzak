@@ -10,6 +10,7 @@
 h1,h2,h3,h4,h5,h6 {
     font-family: "Marmelad", sans-serif;
 }
+
 .top_panel_title .page_title,
 .woocommerce ul.products li.product h3,
 .woocommerce-page ul.products li.product h3,
@@ -84,7 +85,8 @@ blockquote,
 .woocommerce-page input.button.alt,
 .woocommerce-page #respond input#submit.alt,
 .woocommerce-page #content input.button.alt,
-.woocommerce-account .addresses .title .edit {
+.woocommerce-account .addresses .title .edit 
+{
     font-family: "Lato", sans-serif!important;
 }
 
@@ -105,7 +107,8 @@ blockquote,
 .sc_table table tr:first-child td,
 .sc_tabs .sc_tabs_titles li,
 .sc_team_item .sc_team_item_info .sc_team_item_position,
-.sc_testimonial_content {
+.sc_testimonial_content 
+{
     font-family: "Lato", sans-serif!important;
 }
 
@@ -118,6 +121,7 @@ blockquote,
 {
     font-family: "Marmelad", sans-serif!important;
 }
+
 /* Top panel and post info */
 
 .top_panel_title .breadcrumbs,
@@ -125,6 +129,7 @@ blockquote,
 blockquote > a,
 blockquote > p > a,
 blockquote cite,
-#send_comment {
+#send_comment 
+{
     font-family: "Lato", sans-serif!important;
 }
